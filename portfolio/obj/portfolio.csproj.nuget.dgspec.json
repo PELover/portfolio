@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\c-project\\portfolio\\portfolio.csproj": {}
+    "C:\\c-project\\.git\\portfolio\\portfolio.csproj": {}
   },
   "projects": {
-    "C:\\c-project\\portfolio\\portfolio.csproj": {
+    "C:\\c-project\\.git\\portfolio\\portfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\c-project\\portfolio\\portfolio.csproj",
+        "projectUniqueName": "C:\\c-project\\.git\\portfolio\\portfolio.csproj",
         "projectName": "portfolio",
-        "projectPath": "C:\\c-project\\portfolio\\portfolio.csproj",
+        "projectPath": "C:\\c-project\\.git\\portfolio\\portfolio.csproj",
         "packagesPath": "C:\\Users\\mothz\\.nuget\\packages\\",
-        "outputPath": "C:\\c-project\\portfolio\\obj\\",
+        "outputPath": "C:\\c-project\\.git\\portfolio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mothz\\AppData\\Roaming\\NuGet\\NuGet.Config",
