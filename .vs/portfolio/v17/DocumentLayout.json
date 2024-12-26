@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\c-project\\",
+  "WorkspaceRootPath": "C:\\c-project\\.git\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73909B8F-4621-44C1-8908-DEDE46DB18BB}|portfolio\\portfolio.csproj|c:\\c-project\\portfolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73909B8F-4621-44C1-8908-DEDE46DB18BB}|portfolio\\portfolio.csproj|c:\\c-project\\.git\\portfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73909B8F-4621-44C1-8908-DEDE46DB18BB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73909B8F-4621-44C1-8908-DEDE46DB18BB}|portfolio\\portfolio.csproj|c:\\c-project\\.git\\portfolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73909B8F-4621-44C1-8908-DEDE46DB18BB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,19 +23,42 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\c-project\\portfolio\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "portfolio\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\c-project\\portfolio\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "portfolio\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:23:23.783Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\c-project\\.git\\portfolio\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "portfolio\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\c-project\\.git\\portfolio\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "portfolio\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T14:32:23.404Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\c-project\\.git\\portfolio\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "portfolio\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\c-project\\.git\\portfolio\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "portfolio\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T14:23:23.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }
