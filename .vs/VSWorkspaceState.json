@@ -7,6 +7,6 @@
     "\\portfolio\\Views",
     "\\portfolio\\Views\\Home"
   ],
-  "SelectedNode": "\\portfolio.sln",
+  "SelectedNode": "\\portfolio\\Controllers\\HomeController.cs",
   "PreviewInSolutionExplorer": false
 }
