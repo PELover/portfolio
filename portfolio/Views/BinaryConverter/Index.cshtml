@@ -9,7 +9,7 @@
     }
 </style>
 
-
+<body>
 <form method="post" asp-action="Index" asp-controller="BinaryConverter">
     <div class="form-group">
         <label asp-for="bininput" class="fs-5">Insert Binary Digits</label>
@@ -19,11 +19,11 @@
         <br></br>
     <div class="from-group">
         <label asp-for="binoutput" class="fs-5">Demical Number</label>
-        <pre><output class="form-text fs-5"></output>@Model.binoutput</pre>
+        <pre class="fs-5"><output class="form-text"></output>@Model.binoutput</pre>
     </div>  
     <button type="submit" class="btn btn-primary my-2">Convert</button>
 </form>
-
+<hr></hr>
 <form method="post" asp-action="Index" asp-controller="BinaryConverter">
     <div class="form-group">
         <lable asp-for="demiinput" class="fs-5">Insert Demical Numbers</lable>
@@ -33,7 +33,9 @@
         <br></br>
     <div class="from-group">
         <label asp-for="demioutput" class="fs-5">Binary Digits</label>
-        <pre><output class="form-text fs-5"></output>@Model.demioutput</pre>
+        <pre class="fs-5"><output class="form-text"></output>@Model.demioutput</pre>
     </div>
-    <button type="submit" class="btn btn-primary my-2">Convert</button>
-</form>
+     <button type="submit" class="btn btn-primary my-2">Convert</button>
+	</form>
+<hr></hr>
+</body>
