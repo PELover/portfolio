@@ -1,0 +1,39 @@
+﻿@model BinaryConverter;
+@{
+    ViewData["Title"] = "BinaryConverter Program";
+}
+<style>
+    .tab {
+        display: inline-block;
+        margin-left: 32px;
+    }
+</style>
+
+
+<form method="post" asp-action="Index" asp-controller="BinaryConverter">
+    <div class="form-group">
+        <label asp-for="bininput" class="fs-5">Insert Binary Digits</label>
+        <input type="text" asp-for="bininput" placeholder="Binary Digits" class="form-control w-50">
+        <span asp-validation-for="bininput" class="text-danger"></span>
+    </div>
+        <br></br>
+    <div class="from-group">
+        <label asp-for="binoutput" class="fs-5">Demical Number</label>
+        <pre><output class="form-text fs-5"></output>@Model.binoutput</pre>
+    </div>  
+    <button type="submit" class="btn btn-primary my-2">Convert</button>
+</form>
+
+<form method="post" asp-action="Index" asp-controller="BinaryConverter">
+    <div class="form-group">
+        <lable asp-for="demiinput" class="fs-5">Insert Demical Numbers</lable>
+        <input type="text" asp-for="demiinput" placeholder="Demical Numbers" class="form-control w-50" />
+        <span asp-validation-for="demiinput" class="text-danger"></span>
+    </div>
+        <br></br>
+    <div class="from-group">
+        <label asp-for="demioutput" class="fs-5">Binary Digits</label>
+        <pre><output class="form-text fs-5"></output>@Model.demioutput</pre>
+    </div>
+    <button type="submit" class="btn btn-primary my-2">Convert</button>
+</form>
