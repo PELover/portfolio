@@ -5,12 +5,20 @@ namespace portfolio.Models
 {
     public class BinaryConverter
     {
-        public int bininput { get; set; }
+        public long bininput { get; set; }
         public string binoutput { get; set; }
         public int demiinput { get; set; }
         public string demioutput { get; set; }
-        public string bintodemi(int input)
+        public string bintodemi(long input)
         {
+            string inputstring = input.ToString();
+            for(int i=0;i<inputstring.Length;i++)
+            {
+                if (inputstring[i] != '0' && inputstring[i] != '1')
+                {
+                    return "Please insert only 0 or 1";
+                }
+            }
             string s = "";
             int a = 0;
             double sum = 0;            
