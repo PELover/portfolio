@@ -90,3 +90,6 @@ C:\c-project\.git\portfolio\obj\Debug\net8.0\refint\portfolio.dll
 C:\c-project\.git\portfolio\obj\Debug\net8.0\portfolio.pdb
 C:\c-project\.git\portfolio\obj\Debug\net8.0\portfolio.genruntimeconfig.cache
 C:\c-project\.git\portfolio\obj\Debug\net8.0\ref\portfolio.dll
+C:\c-project\.git\portfolio\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\c-project\.git\portfolio\obj\Debug\net8.0\portfolio.csproj.AssemblyReference.cache
+C:\c-project\.git\portfolio\obj\Debug\net8.0\portfolio.csproj.Up2Date

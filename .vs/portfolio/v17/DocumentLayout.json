@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "C:\\c-project\\.git\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73909B8F-4621-44C1-8908-DEDE46DB18BB}|portfolio\\portfolio.csproj|c:\\c-project\\.git\\portfolio\\models\\binaryconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73909B8F-4621-44C1-8908-DEDE46DB18BB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\models\\binaryconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73909B8F-4621-44C1-8908-DEDE46DB18BB}|portfolio\\portfolio.csproj|c:\\c-project\\.git\\portfolio\\controllers\\binaryconvertercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73909B8F-4621-44C1-8908-DEDE46DB18BB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\controllers\\binaryconvertercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73909B8F-4621-44C1-8908-DEDE46DB18BB}|portfolio\\portfolio.csproj|c:\\c-project\\.git\\portfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{73909B8F-4621-44C1-8908-DEDE46DB18BB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73909B8F-4621-44C1-8908-DEDE46DB18BB}|portfolio\\portfolio.csproj|c:\\c-project\\.git\\portfolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73909B8F-4621-44C1-8908-DEDE46DB18BB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73909B8F-4621-44C1-8908-DEDE46DB18BB}|portfolio\\portfolio.csproj|c:\\c-project\\.git\\portfolio\\views\\binaryconverter\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{73909B8F-4621-44C1-8908-DEDE46DB18BB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\views\\binaryconverter\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73909B8F-4621-44C1-8908-DEDE46DB18BB}|portfolio\\portfolio.csproj|c:\\c-project\\.git\\portfolio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{73909B8F-4621-44C1-8908-DEDE46DB18BB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{73909B8F-4621-44C1-8908-DEDE46DB18BB}|portfolio\\portfolio.csproj|c:\\c-project\\.git\\portfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{73909B8F-4621-44C1-8908-DEDE46DB18BB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73909B8F-4621-44C1-8908-DEDE46DB18BB}|portfolio\\portfolio.csproj|c:\\c-project\\.git\\portfolio\\wwwroot\\json\\portoliohome_en.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73909B8F-4621-44C1-8908-DEDE46DB18BB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\wwwroot\\json\\portoliohome_en.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73909B8F-4621-44C1-8908-DEDE46DB18BB}|portfolio\\portfolio.csproj|c:\\c-project\\.git\\portfolio\\wwwroot\\json\\portoliohome_th.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73909B8F-4621-44C1-8908-DEDE46DB18BB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\wwwroot\\json\\portoliohome_th.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,93 +30,42 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "portoliohome_th.json",
+              "DocumentMoniker": "C:\\c-project\\.git\\portfolio\\wwwroot\\json\\portoliohome_th.json",
+              "RelativeDocumentMoniker": "portfolio\\wwwroot\\json\\portoliohome_th.json",
+              "ToolTip": "C:\\c-project\\.git\\portfolio\\wwwroot\\json\\portoliohome_th.json",
+              "RelativeToolTip": "portfolio\\wwwroot\\json\\portoliohome_th.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-04T12:29:38.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BinaryConverterController.cs",
-              "DocumentMoniker": "C:\\c-project\\.git\\portfolio\\Controllers\\BinaryConverterController.cs",
-              "RelativeDocumentMoniker": "portfolio\\Controllers\\BinaryConverterController.cs",
-              "ToolTip": "C:\\c-project\\.git\\portfolio\\Controllers\\BinaryConverterController.cs",
-              "RelativeToolTip": "portfolio\\Controllers\\BinaryConverterController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAArwBgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T07:59:24.538Z",
+              "Title": "portoliohome_en.json",
+              "DocumentMoniker": "C:\\c-project\\.git\\portfolio\\wwwroot\\json\\portoliohome_en.json",
+              "RelativeDocumentMoniker": "portfolio\\wwwroot\\json\\portoliohome_en.json",
+              "ToolTip": "C:\\c-project\\.git\\portfolio\\wwwroot\\json\\portoliohome_en.json",
+              "RelativeToolTip": "portfolio\\wwwroot\\json\\portoliohome_en.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-04T12:29:25.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BinaryConverter.cs",
-              "DocumentMoniker": "C:\\c-project\\.git\\portfolio\\Models\\BinaryConverter.cs",
-              "RelativeDocumentMoniker": "portfolio\\Models\\BinaryConverter.cs",
-              "ToolTip": "C:\\c-project\\.git\\portfolio\\Models\\BinaryConverter.cs",
-              "RelativeToolTip": "portfolio\\Models\\BinaryConverter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T07:58:43.234Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\c-project\\.git\\portfolio\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "portfolio\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\c-project\\.git\\portfolio\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "portfolio\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-30T07:53:05.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\c-project\\.git\\portfolio\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "portfolio\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\c-project\\.git\\portfolio\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "portfolio\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-29T13:09:22.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\c-project\\.git\\portfolio\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "portfolio\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\c-project\\.git\\portfolio\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "portfolio\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T13:08:22.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\c-project\\.git\\portfolio\\Views\\BinaryConverter\\Index.cshtml",
-              "RelativeDocumentMoniker": "portfolio\\Views\\BinaryConverter\\Index.cshtml",
-              "ToolTip": "C:\\c-project\\.git\\portfolio\\Views\\BinaryConverter\\Index.cshtml",
-              "RelativeToolTip": "portfolio\\Views\\BinaryConverter\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-29T11:03:43.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\c-project\\.git\\portfolio\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "portfolio\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\c-project\\.git\\portfolio\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "portfolio\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEYAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-29T10:47:12.999Z"
+              "WhenOpened": "2024-12-30T09:29:17.882Z",
+              "EditorCaption": ""
             }
           ]
         }

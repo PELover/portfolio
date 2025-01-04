@@ -17,6 +17,14 @@
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
+      "Id": "C:\\c-project\\.git\\portfolio\\wwwroot\\json\\portoliohome_en.json",
+      "PackagePath": "staticwebassets\\json\\portoliohome_en.json"
+    },
+    {
+      "Id": "C:\\c-project\\.git\\portfolio\\wwwroot\\json\\portoliohome_th.json",
+      "PackagePath": "staticwebassets\\json\\portoliohome_th.json"
+    },
+    {
       "Id": "C:\\c-project\\.git\\portfolio\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
