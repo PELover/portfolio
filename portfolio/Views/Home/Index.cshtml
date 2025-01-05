@@ -7,17 +7,18 @@
         <img src="~/img/me.jpg" alt="me" width="137px" height="172px" class="img-thumbnail position-absolute" />    
         <br /><br />
         <h1 class="text-start" style="font-size:70px; margin-left:170px">@ViewBag.Translations["name"]</h1>
-        <br /><br /><br />
+        <br /><br />
 
-        <form method="get" asp-action="Index" asp-controller="Home">
+        <form method="get" asp-action="Index" asp-controller="Home" style="display: inline-block;">
             <input type="hidden" name="lang" value="en" />
-            <button type="submit" class="position-absolute" style="margin-left:170px; margin-top:-220px;">EN</button>
+            <button type="submit">EN</button>
         </form>
-        <form method="get" asp-action="Index" asp-controller="Home">
+        <form method="get" asp-action="Index" asp-controller="Home" style="display: inline-block;">
             <input type="hidden" name="lang" value="th" />
-            <button type="submit" class="position-absolute" style="margin-left:220px; margin-top:-220px;">TH</button>
+            <button type="submit">TH</button>
         </form>
-
+        <br /><br />
+        
         <div>
             <p style="font-size:22px;color:blue;opacity:75%">@ViewBag.Translations["aboutme"]</p>
             <p>@ViewBag.Translations["aboutmeinfo"]</p>
