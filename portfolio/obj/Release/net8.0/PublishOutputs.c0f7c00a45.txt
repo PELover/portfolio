@@ -1,0 +1,8 @@
+C:\c-project\.git\portfolio\obj\Release\net8.0\PubTmp\Out\portfolio.exe
+C:\c-project\.git\portfolio\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\c-project\.git\portfolio\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\c-project\.git\portfolio\obj\Release\net8.0\PubTmp\Out\portfolio.dll
+C:\c-project\.git\portfolio\obj\Release\net8.0\PubTmp\Out\portfolio.deps.json
+C:\c-project\.git\portfolio\obj\Release\net8.0\PubTmp\Out\portfolio.runtimeconfig.json
+C:\c-project\.git\portfolio\obj\Release\net8.0\PubTmp\Out\portfolio.pdb
+C:\c-project\.git\portfolio\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll

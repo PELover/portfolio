@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\c-project\\.git\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{73909B8F-4621-44C1-8908-DEDE46DB18BB}|portfolio\\portfolio.csproj|c:\\c-project\\.git\\portfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{73909B8F-4621-44C1-8908-DEDE46DB18BB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73909B8F-4621-44C1-8908-DEDE46DB18BB}|portfolio\\portfolio.csproj|c:\\c-project\\.git\\portfolio\\wwwroot\\json\\portoliohome_en.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{73909B8F-4621-44C1-8908-DEDE46DB18BB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\wwwroot\\json\\portoliohome_en.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73909B8F-4621-44C1-8908-DEDE46DB18BB}|portfolio\\portfolio.csproj|c:\\c-project\\.git\\portfolio\\wwwroot\\json\\portoliohome_th.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{73909B8F-4621-44C1-8908-DEDE46DB18BB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\wwwroot\\json\\portoliohome_th.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,50 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "portoliohome_th.json",
-              "DocumentMoniker": "C:\\c-project\\.git\\portfolio\\wwwroot\\json\\portoliohome_th.json",
-              "RelativeDocumentMoniker": "portfolio\\wwwroot\\json\\portoliohome_th.json",
-              "ToolTip": "C:\\c-project\\.git\\portfolio\\wwwroot\\json\\portoliohome_th.json",
-              "RelativeToolTip": "portfolio\\wwwroot\\json\\portoliohome_th.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-04T12:29:38.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "portoliohome_en.json",
-              "DocumentMoniker": "C:\\c-project\\.git\\portfolio\\wwwroot\\json\\portoliohome_en.json",
-              "RelativeDocumentMoniker": "portfolio\\wwwroot\\json\\portoliohome_en.json",
-              "ToolTip": "C:\\c-project\\.git\\portfolio\\wwwroot\\json\\portoliohome_en.json",
-              "RelativeToolTip": "portfolio\\wwwroot\\json\\portoliohome_en.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-04T12:29:25.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\c-project\\.git\\portfolio\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "portfolio\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\c-project\\.git\\portfolio\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "portfolio\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEYAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-30T09:29:17.882Z",
-              "EditorCaption": ""
             }
           ]
         }
