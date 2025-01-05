@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qg3gJ5Zil1X3kNbKsFg0k1nOqotbsWaNL/ztlNV+3qk=",
+  "Hash": "7JpPbsEgt4/VXIKB0t4e/Of1axemRUpKsn8ZsxxehAM=",
   "Source": "portfolio",
   "BasePath": "_content/portfolio",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\c-project\\.git\\portfolio\\wwwroot\\img\\me.jpg",
+      "SourceId": "portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\c-project\\.git\\portfolio\\wwwroot\\",
+      "BasePath": "_content/portfolio",
+      "RelativePath": "img/me.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\me.jpg"
     },
     {
       "Identity": "C:\\c-project\\.git\\portfolio\\wwwroot\\js\\site.js",
