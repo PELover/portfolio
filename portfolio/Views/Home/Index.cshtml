@@ -3,10 +3,9 @@
 }
 
 <div class="bg-info bg-opacity-10">
-    <div style="margin-left:25px;margin-top:-15px">
-        <img src="~/img/me.jpg" alt="me" width="137px" height="172px" class="img-thumbnail position-absolute" />    
+    <div style="margin-left:25px;margin-top:-15px">  
         <br /><br />
-        <h1 class="text-start" style="font-size:70px; margin-left:170px">@ViewBag.Translations["name"]</h1>
+        <h1 class="text-center" style="font-size:70px;">@ViewBag.Translations["name"]</h1>
         <br /><br />
 
         <form method="get" asp-action="Index" asp-controller="Home" style="display: inline-block;">
@@ -41,7 +40,7 @@
 
 <!-- Education -->
 <div style="margin-left:25px;margin-top:-18px">
-    <p style="font-size:22px;color:blue;opacity:75%">@ViewBag.Translations["project"]</p>
+    <p style="font-size:22px;"><a href="Projects/Index" class="color:blue;opacity:75%">@ViewBag.Translations["project"]</a></p>
     <li class="m-lg-3">@ViewBag.Translations["project1"]</li>
     <li class="m-lg-3">@ViewBag.Translations["project2"]</li>
     <li class="m-lg-3">@ViewBag.Translations["project3"]</li>
